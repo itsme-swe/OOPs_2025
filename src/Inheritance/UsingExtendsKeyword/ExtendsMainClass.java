@@ -1,6 +1,6 @@
 package Inheritance.UsingExtendsKeyword;
 
-public class ExtendsMain {
+public class ExtendsMainClass {
     public static void main(String[] args) {
 
         // cylinder object
