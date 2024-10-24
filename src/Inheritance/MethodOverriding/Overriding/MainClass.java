@@ -17,6 +17,6 @@ public class MainClass {
 }
 
 /*
-* Whenever we use ref. of parent class and object of subclass the methods of subclass overshadowed the method of parent class.
+* Whenever we use ref. of parent class and object of subclass the methods of subclass overshadowed the method of parent class bcoz the methods will always call upon objects not on reference.
 * When we call methods using runtime polymorphism, we can access overridden methods of the subclass, but we cannot directly access methods that are unique to the subclass if the reference type is of the parent class.
 * */
