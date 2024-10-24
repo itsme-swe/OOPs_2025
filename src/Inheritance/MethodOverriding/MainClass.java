@@ -10,5 +10,5 @@ public class MainClass {
     }
 }
 /*
-* This is an example of "Dynamic Dispatch method" where Parent class Reference is created and referring to the child class object.
+* This is an example of "Dynamic Dispatch method" also known as "runtime polymorphism" where Parent class Reference is created and referring to the child class object.
 * */
