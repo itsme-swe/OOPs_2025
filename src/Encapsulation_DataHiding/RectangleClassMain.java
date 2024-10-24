@@ -2,7 +2,7 @@
  * We'll be using 'private' keyword to hide the class properties and to access those properties we will be using 'getter()' and 'setter()' method.
  */
 
-package Encapsulation_DataHidingWay;
+package Encapsulation_DataHiding;
 
 public class RectangleClassMain {
   public static void main(String[] args) {
