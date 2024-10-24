@@ -1,4 +1,4 @@
-package DataHiding;
+package Encapsulation_DataHidingWay;
 
 public class Rectangle {
 
