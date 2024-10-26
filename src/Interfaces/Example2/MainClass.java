@@ -29,6 +29,7 @@ public class MainClass {
 
         System.out.println();
 
+        // Ref. of interface IMusic Player and object of SmartPhone class
         IMusicPlayer iMP = new SmartPhone();
 
         iMP.play();
